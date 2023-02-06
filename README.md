@@ -34,6 +34,8 @@ Discord v14 ile yapılan başvuru botu, Discord platformundaki kullanıcılar ta
 
 ![Uygulama Ekran Görüntüsü](https://cdn.discordapp.com/attachments/796790568444887081/1071956077685526588/image.png)
 
+![Uygulama Ekran Görüntüsü](https://cdn.discordapp.com/attachments/796790568444887081/1072106497909215342/image.png)
+
 
 
   
