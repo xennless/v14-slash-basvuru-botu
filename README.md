@@ -7,6 +7,14 @@ Discord v14 ile yapılan başvuru botu, Discord platformundaki kullanıcılar ta
 
 
 
+## Yüklenecek Modüller
+
+```bash 
+  npm i discord.js
+  npm i moment
+  npm i croxydb
+```
+    
 ## Komutlar
 
 - /basvuru-kur

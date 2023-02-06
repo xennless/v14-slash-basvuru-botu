@@ -1,0 +1,16 @@
+{
+  "name": "fivelive-lspd-support",
+  "version": "1.0.0",
+  "description": "FiveLive GTA5 RP Discord Başvuru Uygulaması",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "XennLess",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4"
+  }
+}
