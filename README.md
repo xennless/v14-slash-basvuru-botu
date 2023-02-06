@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/796790568444887081/1071806748068954213/XENNLESS.png)
+![Logo](https://cdn.discordapp.com/attachments/796790568444887081/1072105283779825714/XENNLESS.png)
 # Discord Başvuru Uygulaması
 
 Discord v14 ile yapılan başvuru botu, Discord platformundaki kullanıcılar tarafından kullanılan v14 sürümü kullanılarak oluşturulmuş bir yazılımdır. Bu bot, kullanıcıların belirli bir form doldurmasını ve bu form verilerinin Discord sunucusunda belirli bir şekilde saklanmasını sağlar. Bot, Discord kullanıcılarının başvuru yapması, başvuruların yönetilmesi ve izlenmesi gibi işlemleri kolaylaştırır.
